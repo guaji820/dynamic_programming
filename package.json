@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/guaji820/dynamic_progarmming/issues"
   },
-  "homepage": "https://github.com/guaji820/dynamic_progarmming#readme"
+  "homepage": "https://github.com/guaji820/dynamic_progarmming#readme",
+  "devDependencies": {
+    "lodash": "^4.17.4"
+  }
 }
