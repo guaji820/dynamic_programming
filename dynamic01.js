@@ -5,7 +5,6 @@
 function MinCoinChange(coins){
     var coins = coins
     var cache = {}//缓存从1到某个数字的最少硬币数组合
-
     /*
      * 该方法用于 获取某个 数字的 最少硬币组合
      * @param amount int 指定数字
